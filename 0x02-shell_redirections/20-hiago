@@ -1,0 +1,2 @@
+#!/bin/bbash
+tr -d "cC"
