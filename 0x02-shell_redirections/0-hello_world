@@ -1,2 +1,2 @@
 #!/bin/bash
-./hello_world l cat -e
+echo "Hello, World"
